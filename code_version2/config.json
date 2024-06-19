@@ -1,0 +1,12 @@
+{
+    "icon_styles":{
+        "default":{
+            "inner_icon": " ",
+            "leaf_icon": " "
+        },
+        "poker-face-icon-family":{
+            "inner_icon": "♢",
+            "leaf_icon": "♤"
+        }
+    }
+}
